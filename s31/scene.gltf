@@ -1,0 +1,524 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1728,
+      "max": [
+        2.095074415206909,
+        1.7610960006713867,
+        0.6545088887214661
+      ],
+      "min": [
+        -2.1404683589935303,
+        -1.926859736442566,
+        -0.029020903632044792
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 20736,
+      "componentType": 5126,
+      "count": 1728,
+      "max": [
+        0.9999358654022217,
+        1.0,
+        0.9999988675117493
+      ],
+      "min": [
+        -0.9999358057975769,
+        -1.0,
+        -0.999998927116394
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 10368,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 41472,
+      "componentType": 5126,
+      "count": 374,
+      "max": [
+        0.3737216293811798,
+        0.35862916707992554,
+        0.550175666809082
+      ],
+      "min": [
+        -0.4147440791130066,
+        -0.42983654141426086,
+        0.4095827043056488
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 45960,
+      "componentType": 5126,
+      "count": 374,
+      "max": [
+        0.9596399664878845,
+        0.9596399068832397,
+        0.9999653100967407
+      ],
+      "min": [
+        -0.9596404433250427,
+        -0.9596409201622009,
+        -0.9996451139450073
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 41472,
+      "componentType": 5125,
+      "count": 2232,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 50448,
+      "componentType": 5126,
+      "count": 11532,
+      "max": [
+        2.8545877933502197,
+        4.069662094116211,
+        6.038788318634033
+      ],
+      "min": [
+        -2.8816277980804443,
+        -2.909876823425293,
+        0.48249149322509766
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 188832,
+      "componentType": 5126,
+      "count": 11532,
+      "max": [
+        0.9999059438705444,
+        0.999984860420227,
+        0.9998946189880371
+      ],
+      "min": [
+        -0.9998383522033691,
+        -0.9999980330467224,
+        -0.9999592900276184
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 11532,
+      "max": [
+        0.9975000023841858,
+        0.9943554401397705
+      ],
+      "min": [
+        0.0024999999441206455,
+        0.0024999999441206455
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 50400,
+      "componentType": 5125,
+      "count": 38580,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 327216,
+      "componentType": 5126,
+      "count": 25,
+      "max": [
+        19.685039520263672,
+        19.685039520263672,
+        0.0
+      ],
+      "min": [
+        -19.685039520263672,
+        -19.685039520263672,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 327516,
+      "componentType": 5126,
+      "count": 25,
+      "max": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 92256,
+      "componentType": 5126,
+      "count": 25,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 204720,
+      "componentType": 5125,
+      "count": 96,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "ｍononofu (https://sketchfab.com/guest248)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/sofa-2-1f4f66188b224f3cbbe492f78f9e2446",
+      "title": "Sofa 2"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 205104,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 92456,
+      "byteOffset": 205104,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 327816,
+      "byteOffset": 297560,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 625376,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "RootNode",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6751395395,
+          0.6751395395,
+          0.6751395395,
+          1.0
+        ],
+        "roughnessFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "jyusi",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0288632908,
+          0.0288632908,
+          0.0288632908,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "fabric",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0263830804,
+          0.0263830804,
+          0.0263830804,
+          1.0
+        ],
+        "metallicFactor": 0.5,
+        "roughnessFactor": 0.4
+      }
+    },
+    {
+      "name": "mekki",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Armchair_10_Mesh_03__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Armchair_10_Mesh_01_jyusi_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Armchair_10_Mesh_02_fabric_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane01_mekki_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TEXCOORD_0": 12
+          },
+          "indices": 13,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "7b7c030c552247d29e53d29837eeff05.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Armchair_10_Mesh_03"
+    },
+    {
+      "mesh": 0,
+      "name": "Armchair_10_Mesh_03__0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Armchair_10_Mesh_01"
+    },
+    {
+      "mesh": 1,
+      "name": "Armchair_10_Mesh_01_jyusi_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Armchair_10_Mesh_02"
+    },
+    {
+      "mesh": 2,
+      "name": "Armchair_10_Mesh_02_fabric_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Plane01"
+    },
+    {
+      "mesh": 3,
+      "name": "Plane01_mekki_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

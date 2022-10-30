@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sofa
+* source:	https://sketchfab.com/3d-models/sofa-10704cf8efa3407aae651a67b075ec65
+* author:	vikashmurmoo (https://sketchfab.com/vikashmurmoo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sofa" (https://sketchfab.com/3d-models/sofa-10704cf8efa3407aae651a67b075ec65) by vikashmurmoo (https://sketchfab.com/vikashmurmoo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Leather Black Sofa
+* source:	https://sketchfab.com/3d-models/leather-black-sofa-312d1d36a2624d0594d282828f562d9e
+* author:	DimitraPe (https://sketchfab.com/dimipe)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Leather Black Sofa" (https://sketchfab.com/3d-models/leather-black-sofa-312d1d36a2624d0594d282828f562d9e) by DimitraPe (https://sketchfab.com/dimipe) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
